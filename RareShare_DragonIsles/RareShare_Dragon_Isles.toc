@@ -1,0 +1,24 @@
+## Interface: 90205
+## Title: Rare Share: |cffc41f3bDragon Isles
+## Notes: The Dragon Isles extension for the Rare Share addon
+## Author: Chalsean (Proudmoore)
+## Version: 1.0.0
+## DefaultState: enabled
+## Dependencies: RareShare
+
+locales\enUS.lua
+##locales\deDE.lua
+##locales\enGB.lua
+##locales\esES.lua
+##locales\esMX.lua
+##locales\frFR.lua
+##locales\itIT.lua
+##locales\koKR.lua
+##locales\ptBR.lua
+##locales\ptPT.lua
+##locales\ruRU.lua
+##locales\zhCN.lua
+##locales\zhTW.lua
+##locales\koKR.lua
+
+RareShare_Dragon_Isles.lua
